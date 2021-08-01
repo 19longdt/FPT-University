@@ -1,0 +1,99 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 24, 2021, 7:36:02 AM
+    Author     : hp
+*/
+@media only screen and (min-width: 300px) and (max-width: 1024px) {
+    form table tr td:first-child {
+        color: blue;
+        font-weight: bold;
+        font-size: 1.2rem;
+        float: left;
+        /*width: 20%;*/
+    }
+    textarea{
+        height: 3rem;
+    }
+
+    #ques textarea{
+        height: 5rem;
+    }
+    form table td textarea {
+        width: 150%;
+    }
+    form table tr td input {
+        font-size: 1.4rem;
+        width: auto;
+        /*margin-left: 2rem;*/
+        /*color: aqua;*/
+    }
+    form table tr td{
+        padding-top: 2rem;
+        width: auto;
+    }
+
+}
+@media screen and (min-width: 1025px) {
+    form table tr td:first-child {
+        color: blue;
+        font-weight: bold;
+        font-size: 1.2rem;
+        padding-left: 5.5rem;
+        width: 20%;
+    }
+    textarea{
+        height: 3rem;
+    }
+
+    #ques textarea{
+        height: 5rem;
+    }
+    form table td textarea {
+        width: 150%;
+    }
+    form table tr td input {
+        font-size: 1.4rem;
+        margin-left: 2rem;
+        /*color: aqua;*/
+    }
+    form table tr td{
+        padding-top: 2rem;
+        width: 50%;
+    }
+
+}
+html {
+    font-size: 16px;
+}
+
+.container {
+    background-image: url("../images/bg.jpg");
+    background-repeat: repeat;
+    background-size: contain;
+    padding: 2%;
+}
+
+.content {
+    background-color: whitesmoke;
+    padding: 1%;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+}
+
+form {
+    margin-left: 2%;
+}
+
+form table {
+    width: 60%;
+}
+
+#btnSave {
+    /*border-radius: 0.5rem;*/
+    width: 4rem;
+    font-size: 0.7rem;
+}

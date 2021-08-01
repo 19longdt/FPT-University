@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 24, 2021, 8:02:55 AM
+    Author     : hp
+*/
+
+html {
+    font-size: 16px;
+}
+
+.container {
+    background-image: url("../images/bg.jpg");
+    /*background-repeat: repeat;*/
+    background-size: contain;
+    padding: 2%;
+}
+
+.content {
+    background-color: whitesmoke;
+    padding: 1%;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+
+}
+
+.contentt {
+    margin-left: 2%;
+}
+
+.content h3 {
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: blue;
+}
+
+form table {
+    font-size: 1.2rem;
+}
+
+form table td {
+    padding-bottom: 1rem;
+}
+
+form table td:first-child {
+    padding-right: 2rem;
+}
+
+form table td input {
+    height: 1.2rem;
+    width: 130%
+}
+
+button {
+    border-radius: 0.2rem;
+    width: 4rem;
+    font-size: 0.8rem;
+    height: 2rem;
+}
+button{
+    text-decoration: none;
+}
