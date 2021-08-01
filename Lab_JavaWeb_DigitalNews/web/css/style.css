@@ -1,0 +1,259 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13-Jun-2021, 11:03:16
+    Author     : hp
+*/
+
+@media screen and (min-width: 300px) and (max-width: 1024px) {
+    .container{
+        width: 100%;
+        max-width: 886px;
+    }
+    .header h3{
+        padding-left: 10%;
+        font-size: 1rem;
+        padding-top: 0.5rem;
+    }
+    .left{
+        width:80%;
+        height: auto;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+    .right{
+        padding-top: 0.5rem;
+    }
+    .search {
+        padding-left: 10%;
+    }
+    .searchbox{
+        width: 40%;
+        height: 1rem;
+    }
+
+    .new, .shortDes, .searchtitle{
+        display: none;  
+    }
+    .author{
+        float:right;
+        color: #42554e;
+        font-size: 0.6rem;
+        margin-top: 0.4rem;
+    }
+    .main{
+        display: flex;
+        flex-direction: column;
+    }
+    .menu a{
+        padding-left: 10%;
+        font-size: 0.8rem;
+        line-height: 2rem;
+        color: #ffffff;
+    }
+    
+    .top5{
+        padding-left: 10%;
+    }
+
+}
+@media screen and (min-width: 1025px) {
+    .container{
+        width: 90%;
+        max-width: 886px;
+    }
+    .header h3{
+        font-size: 1.2rem;
+        padding-left: 5rem;
+        padding-top: 0.5rem;
+    }
+    .main{
+
+        display: flex;
+        flex-direction: row;
+    }
+    .menu a{
+        padding-left: 5rem;
+        font-size: 0.8rem;
+        line-height: 2rem;
+        color: #ffffff;
+    }
+    .left{
+        width:70%;
+        height: auto;
+        padding-left: 5rem;
+        border-right: dotted 1.5px;
+    }
+    .right
+    {
+        width: 40%;
+        height: auto;
+        padding: 0.5rem;
+        display: inline-block;
+        position: static;
+    }
+    .author{
+        float:right;
+        color: #42554e;
+        font-size: 0.8rem;
+        margin: 0.4rem 0.4rem;
+    }
+    .new{
+        color: #42554e;
+        font-size: 1rem;
+        font-weight: bold;
+        padding-top: 0.5rem;
+        padding-bottom: 0.8rem;
+        display: inline-block;
+    }
+    .searchbox{
+        width: 60%;
+        height: 1.5rem;
+    }
+    .shortDes{
+        padding-right: 4rem;
+        font-size: 0.8rem;
+        color: #42554e;
+    }
+    .searchtitle{
+        color: #42554e;
+        font-size: 1.1rem;
+        font-weight: bold;
+        padding-top: 0.8rem;
+        padding-bottom: 0.8rem;
+    }
+    .image{
+        padding-right: 4%;
+    }
+}
+
+html {
+    font-size: 16px;
+}
+body{
+    font-family:sans-serif;
+    background-color: #E7E7E7;
+}
+.container{
+    height: auto;
+    /*    border: 1px solid black;*/
+    margin: 0 auto;
+}
+.preheader{
+    background: url(../images/preheader.jpg);
+    background-size: 100% 100%;
+    height:2.5rem;
+}
+.header{
+    background: url(../images/header.jpg);
+    background-size: 100% 100%;
+    height: 4.2rem;
+}
+.menu{
+    background: url(../images/menu.jpg);
+    background-size: 100% 100%;
+    height: 2rem;
+}
+.main{
+    background: url(../images/bg.jpg);
+    background-size: 100% 100%;
+    /*    height: 600px;*/
+    /*width: 80%;*/
+}
+
+.header h3{
+    color: white;
+    margin: 0;
+
+}
+
+.menu a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.title{
+    font-size: 1rem;
+    color: black;
+    font-weight: bold;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.imgpost{
+    width: 100%;
+    height: auto;
+    padding-bottom: 1.2rem;
+    /*    margin: 0 5%;*/
+}
+.description{
+    padding-bottom: 1rem;
+    font-size: 0.9rem;
+    border-bottom: 1px solid #e0e0e0;
+    line-height: 130%;
+}
+.searchbox{
+    border: dashed 1px;
+}
+.btnSearch{
+    border: none;
+    height: 1.5rem;
+    background-color: transparent;
+    font-weight: bold;
+    color: #999999;
+}
+.top5 {
+    margin-top: 1rem;
+    padding-right: 4rem;
+
+}
+.titleNews{
+    margin-bottom: 0.8rem;
+}
+.top5 a{
+    font-size: 0.8rem;
+    text-decoration: none;
+    margin-top: 2%;
+    color: #42554e;
+    /*line-height: 200%;*/
+}
+
+.footer{
+    background: url(../images/footer.jpg);
+    background-size: 100% 100%;
+    height: 2.2rem;
+}
+.paging
+{
+    margin-top: 1.5rem;
+    text-align: center;
+    /*margin-bottom: 2rem;*/
+}
+.paging a{
+    text-decoration: none;
+    border-radius: 5px;
+    /*padding: 1px;*/
+    border: 1px solid;
+    font-size: 0.8rem;
+}
+.active{
+    color: red !important;
+    pointer-events: none;
+}
+.lista{
+    margin-bottom: 5%;
+}
+.content{
+    display: flex;
+}
+.left h5{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: #42554e;
+}
+/*.highlight{
+    background-color: gold;
+}*/
