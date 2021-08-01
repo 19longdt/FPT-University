@@ -1,0 +1,16 @@
+In my Exercices Lab Java Web - Digital News:
+
+Features:
+This website contains information of digital news
+
+====================================================*****====================================================
+
+/*
+Use Mark JS to highlight text when User search news 
+*/
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" charset="UTF-8"></script>
+<script>
+        var txt = document.querySelectorAll('#highlighttitle');
+        var instance = new Mark(txt);
+        instance.mark('${txtSearch}');
+</script>
