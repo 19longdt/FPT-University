@@ -1,1 +1,7 @@
 In my Excercies Lab Java Web - Student Request Admin: upload, download file and logic code for Admin solve request of Student
+Features:
+This website contains 04 (four) main functions
+-	Function 1: Login page  
+-	Function 2: Home page 
+-	Function 3: View requests page
+-	Function 4: Solve requests page 
