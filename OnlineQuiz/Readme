@@ -1,5 +1,25 @@
 In my Exercices Lab Java Web - Online Quiz:
- 
+
+Features:
+     This website contains 5 main functions, we have two kind of users: Teacher and normal user.
+      As the teacher you are allowed to use all functions of system, for Manage Quiz – you only can see your created questions only.
+      As the Student you are allowed to use function 1, 2 and 5 only.
+-	Function 1 : Home page : 
+   o	There for menu on navigation bar: Home (current page), Take Quiz, Make Quiz, Manage Quiz and Contact
+   o	To be able to use the function of each menu, users are required to login the system first. If you wish to have an account, you can make a new one by click on hyperlink Register
+-	Function 2 : Take Quiz page 
+   o	Select the number of questions and start the quiz
+   o	Assume that the time allowance for a question is 01 (one) minute
+   o	Calculate and print the score for taker
+-	Function 3: Make Quiz 
+   o	Enter information of a Quiz and save it to your database
+-	Function 4: Manage Quiz 
+   o	Display information of all questions
+-	Function 5: Register a new user 
+   o	Register a new user
+   o	A new user and be a teacher or normal user
+
+ =================================================================*****=================================================================
  /* check Email 
             + " - Valid email prefixes: first and last character must be an ascii character (a-z) or number (0-9)"
             + "(.) Two or more than two consecutive periods"
