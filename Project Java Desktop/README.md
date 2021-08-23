@@ -1,7 +1,4 @@
-# FPT-University
+illustrating images
 
-Java Core, Java Desktop, Java Web 
-| Lab Java Core, Lab Java Desktop, Lab Java Web
+![Screenshot (6)](https://user-images.githubusercontent.com/66809586/130484835-4f36ff4d-12b9-4513-ad59-ee36c9d24fc0.png)
 
-Happy Learning !!!
- © 2021 | Cre by 19longdt
