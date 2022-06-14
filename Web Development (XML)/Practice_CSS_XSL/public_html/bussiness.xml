@@ -1,0 +1,38 @@
+<?xml version = "1.0"?>
+<!-- Business letter formatted with XML -->
+<?xml-stylesheet type="text/css" href="busi.css"?>
+<letter>
+    <example>Letter example</example>
+    <to>
+        <name>Jane Doe</name>
+        <address1>Box 12345</address1>
+        <address2>15 Any Ave.</address2>
+        <city>Othertown</city>
+        <state>Otherstate</state>
+        <zip>67890</zip>
+        <phone>555-4321</phone>
+    </to>
+	
+    <from>
+        <name>Jonh Maywer</name>
+        <address1>123 Main St.</address1>
+        <address2></address2>
+        <city>Anytown</city>
+        <state>Anystate</state>
+        <zip>12345</zip>
+        <phone>555-1234</phone>
+    </from>
+	
+    <salutation>Dear Sir:</salutation>
+    <paragraph>It is our privilege to inform you about our new database managed with <bold>XML</bold>. This new system allows you to reduce the load on your inventory list server by having the client machine perform the work ofsorting and filtering the data.
+    </paragraph>
+    <paragraph>The data in an XML element is normalized, soplain-text diagrams such as
+        /---\
+        |    |
+        \---/
+        will become gibberish.
+    </paragraph>
+    <closing>Sincerely</closing>
+    <signature>Ms. Doe</signature>
+	
+</letter>

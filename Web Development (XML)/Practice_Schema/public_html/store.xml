@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<stores
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='stores.xsd'>
+    <store>
+        <store_name>NAme</store_name>
+        <address>Hanoi</address>
+        <phone>12345678912</phone>
+        <item code="HA12">
+            <item_name>a</item_name>
+            <count>12</count>
+            <sale>sale</sale>
+            <price>12</price>
+        </item>
+        <item code="HA12">
+            <item_name>a</item_name>
+            <count>12</count>
+            <sale>sale</sale>
+            <price>12</price>
+        </item>
+        <item code="HA12">
+            <item_name>a</item_name>
+            <count>12</count>
+            <sale>sale</sale>
+            <price>12</price>
+        </item>
+    </store>
+
+</stores>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<?xml-stylesheet type="text/xml" href="planets.xsl"?>
+<PLANETS>
+  <PLANET COLOR="RED">
+    <NAME>Mercury</NAME>
+    <MASS UNITS="(Earth = 1)">.0553</MASS>
+    <DAY UNITS="days">58.65</DAY>
+    <RADIUS UNITS="miles">1516</RADIUS>
+    <DENSITY UNITS="(Earth = 1)">.983</DENSITY>
+    <DISTANCE UNITS="million miles">43.4</DISTANCE><!--At perihelion-->
+  </PLANET>
+</PLANETS>
+
+

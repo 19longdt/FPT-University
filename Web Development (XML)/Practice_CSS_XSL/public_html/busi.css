@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 24, 2022, 8:17:29 AM
+    Author     : ADMIN
+*/
+letter {
+    margin-top: 20%;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+example {
+    color: red;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 30px;
+    background: greenyellow;
+    padding: 30px;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    float: left;
+    transform: rotate(-45deg);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+to city, to state, to zip{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+to name,to address1,to adress2,to phone {
+    display: block;
+}
+
+from {
+    font-weight: bold;
+    width: 100px;
+    display: flex;
+    margin-top: -20px;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    clear: both;
+}
+
+salutation {
+    width: 100px;
+    display: block;
+}
+
+paragraph {
+    display: block;
+    
+}
+
+paragraph bold {
+    font-weight: bold;
+}
+
+closing, signature {
+    display: block;
+}
+
+closing {
+    font-weight: bold;
+}
+
+
+

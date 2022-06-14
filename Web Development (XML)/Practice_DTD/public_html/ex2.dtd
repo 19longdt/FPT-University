@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT bank (account*,customer*,depositor*)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT account ANY>
+<!ATTLIST account
+    account-number CDATA #REQUIRED
+    branch-name CDATA #REQUIRED
+    balance CDATA #REQUIRED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT customer ANY>
+<!ATTLIST customer
+    customer-name CDATA #REQUIRED
+    customer-street CDATA #REQUIRED
+    customer-city CDATA #REQUIRED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT depositor ANY>
+<!ATTLIST depositor
+    account-number CDATA #REQUIRED
+    customer-name CDATA #REQUIRED
+  >

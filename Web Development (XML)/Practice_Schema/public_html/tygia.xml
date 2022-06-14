@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<Danh_Sach_Ty_Gia
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='tygia.xsd'>
+    <Ty_Gia Ky_hieu="USD">
+        <Ten_Ngoai_Te>US DOLLAR</Ten_Ngoai_Te>
+        <Mua_Vao>1.5</Mua_Vao>
+        <Chuyen_Khoan>123</Chuyen_Khoan>
+    </Ty_Gia>
+
+</Danh_Sach_Ty_Gia>

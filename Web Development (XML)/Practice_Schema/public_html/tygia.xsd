@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    
+    <xs:element name="Danh_Sach_Ty_Gia">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Ty_Gia" minOccurs="1" maxOccurs="20">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Ten_Ngoai_Te">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="AUST.DOLLAR"></xs:enumeration>
+                                        <xs:enumeration value="CANADIAN DOLLAR"></xs:enumeration>
+                                        <xs:enumeration value="SWISS FRANCE"></xs:enumeration>
+                                        <xs:enumeration value="DANISH KRONE"></xs:enumeration>
+                                        <xs:enumeration value="EURO"></xs:enumeration>
+                                        <xs:enumeration value="BRITISH POUND"></xs:enumeration>
+                                        <xs:enumeration value="HONGKONG DOLLAR"></xs:enumeration>
+                                        <xs:enumeration value="INDIAN RUPEE"></xs:enumeration>
+                                        <xs:enumeration value="JAPANESE YEN"></xs:enumeration>
+                                        <xs:enumeration value="SOUTH KOREAN WON"></xs:enumeration>
+                                        <xs:enumeration value="KUWAITI DIANR"></xs:enumeration>
+                                        <xs:enumeration value="MALASIAN RINGGIT"></xs:enumeration>
+                                        <xs:enumeration value="NORWEGIAN KRONER"></xs:enumeration>
+                                        <xs:enumeration value="SWEDISH KRONA"></xs:enumeration>
+                                        <xs:enumeration value="SINGAPORE DOLLAR"></xs:enumeration>
+                                        <xs:enumeration value="THAI BATH"></xs:enumeration>
+                                        <xs:enumeration value="US DOLLAR"></xs:enumeration>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                
+                            <xs:element name="Mua_Vao" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:float" >
+                                        <xs:minExclusive value="0"></xs:minExclusive>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                
+                            <xs:element name="Chuyen_Khoan">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:float" >
+                                        <xs:minExclusive value="0"></xs:minExclusive>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                
+                            <xs:element name="Ban_Ra" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:float" >
+                                        <xs:minExclusive value="0"></xs:minExclusive>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>
+            
+                        <xs:attribute name="Ky_hieu">
+                            <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:enumeration value="AUD"></xs:enumeration>
+                                    <xs:enumeration value="CAD"></xs:enumeration>
+                                    <xs:enumeration value="CHF"></xs:enumeration>
+                                    <xs:enumeration value="DKK"></xs:enumeration>
+                                    <xs:enumeration value="EUR"></xs:enumeration>
+                                    <xs:enumeration value="GBP"></xs:enumeration>
+                                    <xs:enumeration value="HKD"></xs:enumeration>
+                                    <xs:enumeration value="INR"></xs:enumeration>
+                                    <xs:enumeration value="JPY"></xs:enumeration>
+                                    <xs:enumeration value="KRW"></xs:enumeration>
+                                    <xs:enumeration value="KWD"></xs:enumeration>
+                                    <xs:enumeration value="MYR"></xs:enumeration>
+                                    <xs:enumeration value="NOK"></xs:enumeration>
+                                    <xs:enumeration value="SEK"></xs:enumeration>
+                                    <xs:enumeration value="SGD"></xs:enumeration>
+                                    <xs:enumeration value="THB"></xs:enumeration>
+                                    <xs:enumeration value="USD"></xs:enumeration>
+                                </xs:restriction>
+                            </xs:simpleType>
+                        </xs:attribute>
+                
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

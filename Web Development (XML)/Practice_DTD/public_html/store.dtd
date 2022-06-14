@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT Stores (Store)+>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT Store (products)*>
+<!ATTLIST Store
+    sid ID #REQUIRED
+    name CDATA #REQUIRED
+    phone CDATA #REQUIRED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT products (product)+>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT product (name,price,description,sell?)>
+<!ATTLIST product
+    pid CDATA #REQUIRED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT name (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT price (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT description (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sell (#PCDATA)>
