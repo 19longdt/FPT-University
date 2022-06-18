@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <contact id="C0001">
+    <first_name>James</first_name>
+    <last_name>Butt</last_name>
+    <company_name>Benton, John B Jr</company_name>
+    <address>6649 N Blue Gum St</address>
+    <city>New Orleans</city>
+    <county>Orleans</county>
+    <state>LA</state>
+    <zip>70116</zip>
+    <phone1>504-621-8927</phone1>
+    <phone>504-845-1427</phone>
+    <email>jbutt@gmail.com</email>
+  </contact>
+  <contact id="C0002">
+    <first_name>Josephine</first_name>
+    <last_name>Darakjy</last_name>
+    <company_name>Chanay, Jeffrey A Esq</company_name>
+    <address>4 B Blue Ridge Blvd</address>
+    <city>Brighton</city>
+    <county>Livingston</county>
+    <state>MI</state>
+    <zip>48116</zip>
+    <phone1>810-292-9388</phone1>
+    <phone>810-374-9840</phone>
+    <email>josephine_darakjy@darakjy.org</email>
+  </contact>
+  <contact id="C0003">
+    <first_name>Art</first_name>
+    <last_name>Venere</last_name>
+    <company_name>Chemel, James L Cpa</company_name>
+    <address>8 W Cerritos Ave #54</address>
+    <city>Bridgeport</city>
+    <county>Gloucester</county>
+    <state>NJ</state>
+    <zip>8014</zip>
+    <phone1>856-636-8749</phone1>
+    <phone>856-264-4130</phone>
+    <email>art@venere.org</email>
+  </contact>
+  <contact id="C0004">
+    <first_name>Lenna</first_name>
+    <last_name>Paprocki</last_name>
+    <company_name>Feltz Printing Service</company_name>
+    <address>639 Main St</address>
+    <city>Anchorage</city>
+    <county>Anchorage</county>
+    <state>AK</state>
+    <zip>99501</zip>
+    <phone1>907-385-4412</phone1>
+    <phone>907-921-2010</phone>
+    <email>lpaprocki@hotmail.com</email>
+  </contact>
+  <contact id="C0005">
+    <first_name>Donette</first_name>
+    <last_name>Foller</last_name>
+    <company_name>Printing Dimensions</company_name>
+    <address>34 Center St</address>
+    <city>Hamilton</city>
+    <county>Butler</county>
+    <state>OH</state>
+    <zip>45011</zip>
+    <phone1>513-570-1893</phone1>
+    <phone>513-549-4561</phone>
+    <email>donette.foller@cox.net</email>
+  </contact>
+  <contact id="C0006">
+    <first_name>Simona</first_name>
+    <last_name>Morasca</last_name>
+    <company_name>Chapman, Ross E Esq</company_name>
+    <address>3 Mcauley Dr</address>
+    <city>Ashland</city>
+    <county>Ashland</county>
+    <state>OH</state>
+    <zip>44805</zip>
+    <phone1>419-503-2484</phone1>
+    <phone>419-800-6759</phone>
+    <email>simona@morasca.com</email>
+  </contact>
+  <contact id="C0007">
+    <first_name>Mitsue</first_name>
+    <last_name>Tollner</last_name>
+    <company_name>Morlong Associates</company_name>
+    <address>7 Eads St</address>
+    <city>Chicago</city>
+    <county>Cook</county>
+    <state>IL</state>
+    <zip>60632</zip>
+    <phone1>773-573-6914</phone1>
+    <phone>773-924-8565</phone>
+    <email>mitsue_tollner@yahoo.com</email>
+  </contact>
+  <contact id="C0008">
+    <first_name>Leota</first_name>
+    <last_name>Dilliard</last_name>
+    <company_name>Commercial Press</company_name>
+    <address>7 W Jackson Blvd</address>
+    <city>San Jose</city>
+    <county>Santa Clara</county>
+    <state>CA</state>
+    <zip>95111</zip>
+    <phone1>408-752-3500</phone1>
+    <phone>408-813-1105</phone>
+    <email>leota@hotmail.com</email>
+  </contact>
+  <contact id="C0009">
+    <first_name>Sage</first_name>
+    <last_name>Wieser</last_name>
+    <company_name>Truhlar And Truhlar Attys</company_name>
+    <address>5 Boston Ave #88</address>
+    <city>Sioux Falls</city>
+    <county>Minnehaha</county>
+    <state>SD</state>
+    <zip>57105</zip>
+    <phone1>605-414-2147</phone1>
+    <phone>605-794-4895</phone>
+    <email>sage_wieser@cox.net</email>
+  </contact>
+  <contact id="C0010">
+    <first_name>Kris</first_name>
+    <last_name>Marrier</last_name>
+    <company_name>King, Christopher A Esq</company_name>
+    <address>228 Runamuck Pl #2808</address>
+    <city>Baltimore</city>
+    <county>Baltimore City</county>
+    <state>MD</state>
+    <zip>21224</zip>
+    <phone1>410-655-8723</phone1>
+    <phone>410-804-4694</phone>
+    <email>kris@gmail.com</email>
+  </contact>
+  <contact id="C0011">
+    <first_name>Minna</first_name>
+    <last_name>Amigon</last_name>
+    <company_name>Dorl, James J Esq</company_name>
+    <address>2371 Jerrold Ave</address>
+    <city>Kulpsville</city>
+    <county>Montgomery</county>
+    <state>PA</state>
+    <zip>19443</zip>
+    <phone1>215-874-1229</phone1>
+    <phone>215-422-8694</phone>
+    <email>minna_amigon@yahoo.com</email>
+  </contact>
+  <contact id="C0012">
+    <first_name>Abel</first_name>
+    <last_name>Maclead</last_name>
+    <company_name>Rangoni Of Florence</company_name>
+    <address>37275 St  Rt 17m M</address>
+    <city>Middle Island</city>
+    <county>Suffolk</county>
+    <state>NY</state>
+    <zip>11953</zip>
+    <phone1>631-335-3414</phone1>
+    <phone>631-677-3675</phone>
+    <email>amaclead@gmail.com</email>
+  </contact>
+  <contact id="C0013">
+    <first_name>Kiley</first_name>
+    <last_name>Caldarera</last_name>
+    <company_name>Feiner Bros</company_name>
+    <address>25 E 75th St #69</address>
+    <city>Los Angeles</city>
+    <county>Los Angeles</county>
+    <state>CA</state>
+    <zip>21345</zip>
+    <phone1>310-498-5651</phone1>
+    <phone>310-254-3084</phone>
+    <email>kiley.caldarera@aol.com</email>
+  </contact>
+  <contact id="C0014">
+    <first_name>Graciela</first_name>
+    <last_name>Ruta</last_name>
+    <company_name>Buckley Miller &amp; Wright</company_name>
+    <address>98 Connecticut Ave Nw</address>
+    <city>Chagrin Falls</city>
+    <county>Geauga</county>
+    <state>OH</state>
+    <zip>44023</zip>
+    <phone1>440-780-8425</phone1>
+    <phone>440-579-7763</phone>
+    <email>gruta@cox.net</email>
+  </contact>
+  <contact id="C0015">
+    <first_name>Cammy</first_name>
+    <last_name>Albares</last_name>
+    <company_name>Rousseaux, Michael Esq</company_name>
+    <address>56 E Morehead St</address>
+    <city>Laredo</city>
+    <county>Webb</county>
+    <state>TX</state>
+    <zip>78045</zip>
+    <phone1>956-537-6195</phone1>
+    <phone>956-841-7216</phone>
+    <email>calbares@gmail.com</email>
+  </contact>
+  <contact id="C0016">
+    <first_name>Mattie</first_name>
+    <last_name>Poquette</last_name>
+    <company_name>Century Communications</company_name>
+    <address>73 State Road 434 E</address>
+    <city>Phoenix</city>
+    <county>Maricopa</county>
+    <state>AZ</state>
+    <zip>85013</zip>
+    <phone1>602-277-4385</phone1>
+    <phone>602-953-6360</phone>
+    <email>mattie@aol.com</email>
+  </contact>
+  <contact id="C0017">
+    <first_name>Meaghan</first_name>
+    <last_name>Garufi</last_name>
+    <company_name>Bolton, Wilbur Esq</company_name>
+    <address>69734 E Carrillo St</address>
+    <city>Mc Minnville</city>
+    <county>Warren</county>
+    <state>TN</state>
+    <zip>37110</zip>
+    <phone1>931-313-9635</phone1>
+    <phone>931-235-7959</phone>
+    <email>meaghan@hotmail.com</email>
+  </contact>
+  <contact id="C0018">
+    <first_name>Gladys</first_name>
+    <last_name>Rim</last_name>
+    <company_name>T M Byxbee Company Pc</company_name>
+    <address>322 New Horizon Blvd</address>
+    <city>Milwaukee</city>
+    <county>Milwaukee</county>
+    <state>WI</state>
+    <zip>53207</zip>
+    <phone1>414-661-9598</phone1>
+    <phone>414-377-2880</phone>
+    <email>gladys.rim@rim.org</email>
+  </contact>
+  <contact id="C0019">
+    <first_name>Yuki</first_name>
+    <last_name>Whobrey</last_name>
+    <company_name>Farmers Insurance Group</company_name>
+    <address>1 State Route 27</address>
+    <city>Taylor</city>
+    <county>Wayne</county>
+    <state>MI</state>
+    <zip>48180</zip>
+    <phone1>313-288-7937</phone1>
+    <phone>313-341-4470</phone>
+    <email>yuki_whobrey@aol.com</email>
+  </contact>
+  <contact id="C0020">
+    <first_name>Fletcher</first_name>
+    <last_name>Flosi</last_name>
+    <company_name>Post Box Services Plus</company_name>
+    <address>394 Manchester Blvd</address>
+    <city>Rockford</city>
+    <county>Winnebago</county>
+    <state>IL</state>
+    <zip>61109</zip>
+    <phone1>815-828-2147</phone1>
+    <phone>815-426-5657</phone>
+    <email>fletcher.flosi@yahoo.com</email>
+  </contact>
+  <contact id="C0021">
+    <first_name>Bette</first_name>
+    <last_name>Nicka</last_name>
+    <company_name>Sport En Art</company_name>
+    <address>6 S 33rd St</address>
+    <city>Aston</city>
+    <county>Delaware</county>
+    <state>PA</state>
+    <zip>19014</zip>
+    <phone1>610-545-3615</phone1>
+    <phone>610-492-4643</phone>
+    <email>bette_nicka@cox.net</email>
+  </contact>
+  <contact id="C0022">
+    <first_name>Veronika</first_name>
+    <last_name>Inouye</last_name>
+    <company_name>C 4 Network Inc</company_name>
+    <address>6 Greenleaf Ave</address>
+    <city>San Jose</city>
+    <county>Santa Clara</county>
+    <state>CA</state>
+    <zip>95111</zip>
+    <phone1>408-540-1785</phone1>
+    <phone>408-813-4592</phone>
+    <email>vinouye@aol.com</email>
+  </contact>
+  <contact id="C0023">
+    <first_name>Willard</first_name>
+    <last_name>Kolmetz</last_name>
+    <company_name>Ingalls, Donald R Esq</company_name>
+    <address>618 W Yakima Ave</address>
+    <city>Irving</city>
+    <county>Dallas</county>
+    <state>TX</state>
+    <zip>75062</zip>
+    <phone1>972-303-9197</phone1>
+    <phone>972-896-4882</phone>
+    <email>willard@hotmail.com</email>
+  </contact>
+  <contact id="C0024">
+    <first_name>Maryann</first_name>
+    <last_name>Royster</last_name>
+    <company_name>Franklin, Peter L Esq</company_name>
+    <address>74 S Westgate St</address>
+    <city>Albany</city>
+    <county>Albany</county>
+    <state>NY</state>
+    <zip>12204</zip>
+    <phone1>518-966-7987</phone1>
+    <phone>518-448-8982</phone>
+    <email>mroyster@royster.com</email>
+  </contact>
+  <contact id="C0025">
+    <first_name>Alisha</first_name>
+    <last_name>Slusarski</last_name>
+    <company_name>Wtlz Power 107 Fm</company_name>
+    <address>3273 State St</address>
+    <city>Middlesex</city>
+    <county>Middlesex</county>
+    <state>NJ</state>
+    <zip>8846</zip>
+    <phone1>732-658-3154</phone1>
+    <phone>732-635-3453</phone>
+    <email>alisha@slusarski.com</email>
+  </contact>
+  <contact id="C0026">
+    <first_name>Allene</first_name>
+    <last_name>Iturbide</last_name>
+    <company_name>Ledecky, David Esq</company_name>
+    <address>1 Central Ave</address>
+    <city>Stevens Point</city>
+    <county>Portage</county>
+    <state>WI</state>
+    <zip>54481</zip>
+    <phone1>715-662-6764</phone1>
+    <phone>715-530-9863</phone>
+    <email>allene_iturbide@cox.net</email>
+  </contact>
+  <contact id="C0027">
+    <first_name>Chanel</first_name>
+    <last_name>Caudy</last_name>
+    <company_name>Professional Image Inc</company_name>
+    <address>86 Nw 66th St #8673</address>
+    <city>Shawnee</city>
+    <county>Johnson</county>
+    <state>KS</state>
+    <zip>66218</zip>
+    <phone1>913-388-2079</phone1>
+    <phone>913-899-1103</phone>
+    <email>chanel.caudy@caudy.org</email>
+  </contact>
+  <contact id="C0028">
+    <first_name>Ezekiel</first_name>
+    <last_name>Chui</last_name>
+    <company_name>Sider, Donald C Esq</company_name>
+    <address>2 Cedar Ave #84</address>
+    <city>Easton</city>
+    <county>Talbot</county>
+    <state>MD</state>
+    <zip>21601</zip>
+    <phone1>410-669-1642</phone1>
+    <phone>410-235-8738</phone>
+    <email>ezekiel@chui.com</email>
+  </contact>
+  <contact id="C0029">
+    <first_name>Willow</first_name>
+    <last_name>Kusko</last_name>
+    <company_name>U Pull It</company_name>
+    <address>90991 Thorburn Ave</address>
+    <city>New York</city>
+    <county>New York</county>
+    <state>NY</state>
+    <zip>10011</zip>
+    <phone1>212-582-4976</phone1>
+    <phone>212-934-5167</phone>
+    <email>wkusko@yahoo.com</email>
+  </contact>
+  <contact id="C0030">
+    <first_name>Bernardo</first_name>
+    <last_name>Figeroa</last_name>
+    <company_name>Clark, Richard Cpa</company_name>
+    <address>386 9th Ave N</address>
+    <city>Conroe</city>
+    <county>Montgomery</county>
+    <state>TX</state>
+    <zip>77301</zip>
+    <phone1>936-336-3951</phone1>
+    <phone>936-597-3614</phone>
+    <email>bfigeroa@aol.com</email>
+  </contact>
+  <contact id="C0031">
+    <first_name>Ammie</first_name>
+    <last_name>Corrio</last_name>
+    <company_name>Moskowitz, Barry S</company_name>
+    <address>74874 Atlantic Ave</address>
+    <city>Columbus</city>
+    <county>Franklin</county>
+    <state>OH</state>
+    <zip>43215</zip>
+    <phone1>614-801-9788</phone1>
+    <phone>614-648-3265</phone>
+    <email>ammie@corrio.com</email>
+  </contact>
+  <contact id="C0032">
+    <first_name>Francine</first_name>
+    <last_name>Vocelka</last_name>
+    <company_name>Cascade Realty Advisors Inc</company_name>
+    <address>366 South Dr</address>
+    <city>Las Cruces</city>
+    <county>Dona Ana</county>
+    <state>NM</state>
+    <zip>88011</zip>
+    <phone1>505-977-3911</phone1>
+    <phone>505-335-5293</phone>
+    <email>francine_vocelka@vocelka.com</email>
+  </contact>
+  <contact id="C0033">
+    <first_name>Ernie</first_name>
+    <last_name>Stenseth</last_name>
+    <company_name>Knwz Newsradio</company_name>
+    <address>45 E Liberty St</address>
+    <city>Ridgefield Park</city>
+    <county>Bergen</county>
+    <state>NJ</state>
+    <zip>7660</zip>
+    <phone1>201-709-6245</phone1>
+    <phone>201-387-9093</phone>
+    <email>ernie_stenseth@aol.com</email>
+  </contact>
+  <contact id="C0034">
+    <first_name>Albina</first_name>
+    <last_name>Glick</last_name>
+    <company_name>Giampetro, Anthony D</company_name>
+    <address>4 Ralph Ct</address>
+    <city>Dunellen</city>
+    <county>Middlesex</county>
+    <state>NJ</state>
+    <zip>8812</zip>
+    <phone1>732-924-7882</phone1>
+    <phone>732-782-6701</phone>
+    <email>albina@glick.com</email>
+  </contact>
+  <contact id="C0035">
+    <first_name>Alishia</first_name>
+    <last_name>Sergi</last_name>
+    <company_name>Milford Enterprises Inc</company_name>
+    <address>2742 Distribution Way</address>
+    <city>New York</city>
+    <county>New York</county>
+    <state>NY</state>
+    <zip>10025</zip>
+    <phone1>212-860-1579</phone1>
+    <phone>212-753-2740</phone>
+    <email>asergi@gmail.com</email>
+  </contact>
+  <contact id="C0036">
+    <first_name>Solange</first_name>
+    <last_name>Shinko</last_name>
+    <company_name>Mosocco, Ronald A</company_name>
+    <address>426 Wolf St</address>
+    <city>Metairie</city>
+    <county>Jefferson</county>
+    <state>LA</state>
+    <zip>70002</zip>
+    <phone1>504-979-9175</phone1>
+    <phone>504-265-8174</phone>
+    <email>solange@shinko.com</email>
+  </contact>
+  <contact id="C0037">
+    <first_name>Jose</first_name>
+    <last_name>Stockham</last_name>
+    <company_name>Tri State Refueler Co</company_name>
+    <address>128 Bransten Rd</address>
+    <city>New York</city>
+    <county>New York</county>
+    <state>NY</state>
+    <zip>10011</zip>
+    <phone1>212-675-8570</phone1>
+    <phone>212-569-4233</phone>
+    <email>jose@yahoo.com</email>
+  </contact>
+  <contact id="C0038">
+    <first_name>Rozella</first_name>
+    <last_name>Ostrosky</last_name>
+    <company_name>Parkway Company</company_name>
+    <address>17 Morena Blvd</address>
+    <city>Camarillo</city>
+    <county>Ventura</county>
+    <state>CA</state>
+    <zip>93012</zip>
+    <phone1>805-832-6163</phone1>
+    <phone>805-609-1531</phone>
+    <email>rozella.ostrosky@ostrosky.com</email>
+  </contact>
+  <contact id="C0039">
+    <first_name>Valentine</first_name>
+    <last_name>Gillian</last_name>
+    <company_name>Fbs Business Finance</company_name>
+    <address>775 W 17th St</address>
+    <city>San Antonio</city>
+    <county>Bexar</county>
+    <state>TX</state>
+    <zip>78204</zip>
+    <phone1>210-812-9597</phone1>
+    <phone>210-300-6244</phone>
+    <email>valentine_gillian@gmail.com</email>
+  </contact>
+  <contact id="C0040">
+    <first_name>Kati</first_name>
+    <last_name>Rulapaugh</last_name>
+    <company_name>Eder Assocs Consltng Engrs Pc</company_name>
+    <address>6980 Dorsett Rd</address>
+    <city>Abilene</city>
+    <county>Dickinson</county>
+    <state>KS</state>
+    <zip>67410</zip>
+    <phone1>785-463-7829</phone1>
+    <phone>785-219-7724</phone>
+    <email>kati.rulapaugh@hotmail.com</email>
+  </contact>
+  <contact id="C0041">
+    <first_name>Youlanda</first_name>
+    <last_name>Schemmer</last_name>
+    <company_name>Tri M Tool Inc</company_name>
+    <address>2881 Lewis Rd</address>
+    <city>Prineville</city>
+    <county>Crook</county>
+    <state>OR</state>
+    <zip>97754</zip>
+    <phone1>541-548-8197</phone1>
+    <phone>541-993-2611</phone>
+    <email>youlanda@aol.com</email>
+  </contact>
+  <contact id="C0042">
+    <first_name>Dyan</first_name>
+    <last_name>Oldroyd</last_name>
+    <company_name>International Eyelets Inc</company_name>
+    <address>7219 Woodfield Rd</address>
+    <city>Overland Park</city>
+    <county>Johnson</county>
+    <state>KS</state>
+    <zip>66204</zip>
+    <phone1>913-413-4604</phone1>
+    <phone>913-645-8918</phone>
+    <email>doldroyd@aol.com</email>
+  </contact>
+  <contact id="C0043">
+    <first_name>Roxane</first_name>
+    <last_name>Campain</last_name>
+    <company_name>Rapid Trading Intl</company_name>
+    <address>1048 Main St</address>
+    <city>Fairbanks</city>
+    <county>Fairbanks North Star</county>
+    <state>AK</state>
+    <zip>99708</zip>
+    <phone1>907-231-4722</phone1>
+    <phone>907-335-6568</phone>
+    <email>roxane@hotmail.com</email>
+  </contact>
+  <contact id="C0044">
+    <first_name>Lavera</first_name>
+    <last_name>Perin</last_name>
+    <company_name>Abc Enterprises Inc</company_name>
+    <address>678 3rd Ave</address>
+    <city>Miami</city>
+    <county>Miami-Dade</county>
+    <state>FL</state>
+    <zip>33196</zip>
+    <phone1>305-606-7291</phone1>
+    <phone>305-995-2078</phone>
+    <email>lperin@perin.org</email>
+  </contact>
+  <contact id="C0045">
+    <first_name>Erick</first_name>
+    <last_name>Ferencz</last_name>
+    <company_name>Cindy Turner Associates</company_name>
+    <address>20 S Babcock St</address>
+    <city>Fairbanks</city>
+    <county>Fairbanks North Star</county>
+    <state>AK</state>
+    <zip>99712</zip>
+    <phone1>907-741-1044</phone1>
+    <phone>907-227-6777</phone>
+    <email>erick.ferencz@aol.com</email>
+  </contact>
+  <contact id="C0046">
+    <first_name>Fatima</first_name>
+    <last_name>Saylors</last_name>
+    <company_name>Stanton, James D Esq</company_name>
+    <address>2 Lighthouse Ave</address>
+    <city>Hopkins</city>
+    <county>Hennepin</county>
+    <state>MN</state>
+    <zip>55343</zip>
+    <phone1>952-768-2416</phone1>
+    <phone>952-479-2375</phone>
+    <email>fsaylors@saylors.org</email>
+  </contact>
+  <contact id="C0047">
+    <first_name>Jina</first_name>
+    <last_name>Briddick</last_name>
+    <company_name>Grace Pastries Inc</company_name>
+    <address>38938 Park Blvd</address>
+    <city>Boston</city>
+    <county>Suffolk</county>
+    <state>MA</state>
+    <zip>2128</zip>
+    <phone1>617-399-5124</phone1>
+    <phone>617-997-5771</phone>
+    <email>jina_briddick@briddick.com</email>
+  </contact>
+  <contact id="C0048">
+    <first_name>Kanisha</first_name>
+    <last_name>Waycott</last_name>
+    <company_name>Schroer, Gene E Esq</company_name>
+    <address>5 Tomahawk Dr</address>
+    <city>Los Angeles</city>
+    <county>Los Angeles</county>
+    <state>CA</state>
+    <zip>90006</zip>
+    <phone1>323-453-2780</phone1>
+    <phone>323-315-7314</phone>
+    <email>kanisha_waycott@yahoo.com</email>
+  </contact>
+  <contact id="C0049">
+    <first_name>Emerson</first_name>
+    <last_name>Bowley</last_name>
+    <company_name>Knights Inn</company_name>
+    <address>762 S Main St</address>
+    <city>Madison</city>
+    <county>Dane</county>
+    <state>WI</state>
+    <zip>53711</zip>
+    <phone1>608-336-7444</phone1>
+    <phone>608-658-7940</phone>
+    <email>emerson.bowley@bowley.org</email>
+  </contact>
+  <contact id="C0050">
+    <first_name>Blair</first_name>
+    <last_name>Malet</last_name>
+    <company_name>Bollinger Mach Shp &amp; Shipyard</company_name>
+    <address>209 Decker Dr</address>
+    <city>Philadelphia</city>
+    <county>Philadelphia</county>
+    <state>PA</state>
+    <zip>19132</zip>
+    <phone1>215-907-9111</phone1>
+    <phone>215-794-4519</phone>
+    <email>bmalet@yahoo.com</email>
+  </contact>
+  <contact id="C0051">
+    <first_name>Brock</first_name>
+    <last_name>Bolognia</last_name>
+    <company_name>Orinda News</company_name>
+    <address>4486 W O St #1</address>
+    <city>New York</city>
+    <county>New York</county>
+    <state>NY</state>
+    <zip>10003</zip>
+    <phone1>212-402-9216</phone1>
+    <phone>212-617-5063</phone>
+    <email>bbolognia@yahoo.com</email>
+  </contact>
+  <contact id="C0052">
+    <first_name>Lorrie</first_name>
+    <last_name>Nestle</last_name>
+    <company_name>Ballard Spahr Andrews</company_name>
+    <address>39 S 7th St</address>
+    <city>Tullahoma</city>
+    <county>Coffee</county>
+    <state>TN</state>
+    <zip>37388</zip>
+    <phone1>931-875-6644</phone1>
+    <phone>931-303-6041</phone>
+    <email>lnestle@hotmail.com</email>
+  </contact>
+  <contact id="C0053">
+    <first_name>Sabra</first_name>
+    <last_name>Uyetake</last_name>
+    <company_name>Lowy Limousine Service</company_name>
+    <address>98839 Hawthorne Blvd #6101</address>
+    <city>Columbia</city>
+    <county>Richland</county>
+    <state>SC</state>
+    <zip>29201</zip>
+    <phone1>803-925-5213</phone1>
+    <phone>803-681-3678</phone>
+    <email>sabra@uyetake.org</email>
+  </contact>
+  <contact id="C0054">
+    <first_name>Marjory</first_name>
+    <last_name>Mastella</last_name>
+    <company_name>Vicon Corporation</company_name>
+    <address>71 San Mateo Ave</address>
+    <city>Wayne</city>
+    <county>Delaware</county>
+    <state>PA</state>
+    <zip>19087</zip>
+    <phone1>610-814-5533</phone1>
+    <phone>610-379-7125</phone>
+    <email>mmastella@mastella.com</email>
+  </contact>
+  <contact id="C0055">
+    <first_name>Karl</first_name>
+    <last_name>Klonowski</last_name>
+    <company_name>Rossi, Michael M</company_name>
+    <address>76 Brooks St #9</address>
+    <city>Flemington</city>
+    <county>Hunterdon</county>
+    <state>NJ</state>
+    <zip>8822</zip>
+    <phone1>908-877-6135</phone1>
+    <phone>908-470-4661</phone>
+    <email>karl_klonowski@yahoo.com</email>
+  </contact>
+  <contact id="C0056">
+    <first_name>Tonette</first_name>
+    <last_name>Wenner</last_name>
+    <company_name>Northwest Publishing</company_name>
+    <address>4545 Courthouse Rd</address>
+    <city>Westbury</city>
+    <county>Nassau</county>
+    <state>NY</state>
+    <zip>11590</zip>
+    <phone1>516-968-6051</phone1>
+    <phone>516-333-4861</phone>
+    <email>twenner@aol.com</email>
+  </contact>
+  <contact id="C0057">
+    <first_name>Amber</first_name>
+    <last_name>Monarrez</last_name>
+    <company_name>Branford Wire &amp; Mfg Co</company_name>
+    <address>14288 Foster Ave #4121</address>
+    <city>Jenkintown</city>
+    <county>Montgomery</county>
+    <state>PA</state>
+    <zip>19046</zip>
+    <phone1>215-934-8655</phone1>
+    <phone>215-329-6386</phone>
+    <email>amber_monarrez@monarrez.org</email>
+  </contact>
+  <contact id="C0058">
+    <first_name>Shenika</first_name>
+    <last_name>Seewald</last_name>
+    <company_name>East Coast Marketing</company_name>
+    <address>4 Otis St</address>
+    <city>Van Nuys</city>
+    <county>Los Angeles</county>
+    <state>CA</state>
+    <zip>91405</zip>
+    <phone1>818-423-4007</phone1>
+    <phone>818-749-8650</phone>
+    <email>shenika@gmail.com</email>
+  </contact>
+  <contact id="C0059">
+    <first_name>Delmy</first_name>
+    <last_name>Ahle</last_name>
+    <company_name>Wye Technologies Inc</company_name>
+    <address>65895 S 16th St</address>
+    <city>Providence</city>
+    <county>Providence</county>
+    <state>RI</state>
+    <zip>2909</zip>
+    <phone1>401-458-2547</phone1>
+    <phone>401-559-8961</phone>
+    <email>delmy.ahle@hotmail.com</email>
+  </contact>
+  <contact id="C0060">
+    <first_name>Deeanna</first_name>
+    <last_name>Juhas</last_name>
+    <company_name>Healy, George W Iv</company_name>
+    <address>14302 Pennsylvania Ave</address>
+    <city>Huntingdon Valley</city>
+    <county>Montgomery</county>
+    <state>PA</state>
+    <zip>19006</zip>
+    <phone1>215-211-9589</phone1>
+    <phone>215-417-9563</phone>
+    <email>deeanna_juhas@gmail.com</email>
+  </contact>
+  <contact id="C0061">
+    <first_name>Blondell</first_name>
+    <last_name>Pugh</last_name>
+    <company_name>Alpenlite Inc</company_name>
+    <address>201 Hawk Ct</address>
+    <city>Providence</city>
+    <county>Providence</county>
+    <state>RI</state>
+    <zip>2904</zip>
+    <phone1>401-960-8259</phone1>
+    <phone>401-300-8122</phone>
+    <email>bpugh@aol.com</email>
+  </contact>
+  <contact id="C0062">
+    <first_name>Jamal</first_name>
+    <last_name>Vanausdal</last_name>
+    <company_name>Hubbard, Bruce Esq</company_name>
+    <address>53075 Sw 152nd Ter #615</address>
+    <city>Monroe Township</city>
+    <county>Middlesex</county>
+    <state>NJ</state>
+    <zip>8831</zip>
+    <phone1>732-234-1546</phone1>
+    <phone>732-904-2931</phone>
+    <email>jamal@vanausdal.org</email>
+  </contact>
+  <contact id="C0063">
+    <first_name>Cecily</first_name>
+    <last_name>Hollack</last_name>
+    <company_name>Arthur A Oliver &amp; Son Inc</company_name>
+    <address>59 N Groesbeck Hwy</address>
+    <city>Austin</city>
+    <county>Travis</county>
+    <state>TX</state>
+    <zip>78731</zip>
+    <phone1>512-486-3817</phone1>
+    <phone>512-861-3814</phone>
+    <email>cecily@hollack.org</email>
+  </contact>
+  <contact id="C0064">
+    <first_name>Carmelina</first_name>
+    <last_name>Lindall</last_name>
+    <company_name>George Jessop Carter Jewelers</company_name>
+    <address>2664 Lewis Rd</address>
+    <city>Littleton</city>
+    <county>Douglas</county>
+    <state>CO</state>
+    <zip>80126</zip>
+    <phone1>303-724-7371</phone1>
+    <phone>303-874-5160</phone>
+    <email>carmelina_lindall@lindall.com</email>
+  </contact>
+  <contact id="C0065">
+    <first_name>Maurine</first_name>
+    <last_name>Yglesias</last_name>
+    <company_name>Schultz, Thomas C Md</company_name>
+    <address>59 Shady Ln #53</address>
+    <city>Milwaukee</city>
+    <county>Milwaukee</county>
+    <state>WI</state>
+    <zip>53214</zip>
+    <phone1>414-748-1374</phone1>
+    <phone>414-573-7719</phone>
+    <email>maurine_yglesias@yglesias.com</email>
+  </contact>
+  <contact id="C0066">
+    <first_name>Tawna</first_name>
+    <last_name>Buvens</last_name>
+    <company_name>H H H Enterprises Inc</company_name>
+    <address>3305 Nabell Ave #679</address>
+    <city>New York</city>
+    <county>New York</county>
+    <state>NY</state>
+    <zip>10009</zip>
+    <phone1>212-674-9610</phone1>
+    <phone>212-462-9157</phone>
+    <email>tawna@gmail.com</email>
+  </contact>
+  <contact id="C0067">
+    <first_name>Penney</first_name>
+    <last_name>Weight</last_name>
+    <company_name>Hawaiian King Hotel</company_name>
+    <address>18 Fountain St</address>
+    <city>Anchorage</city>
+    <county>Anchorage</county>
+    <state>AK</state>
+    <zip>99515</zip>
+    <phone1>907-797-9628</phone1>
+    <phone>907-873-2882</phone>
+    <email>penney_weight@aol.com</email>
+  </contact>
+  <contact id="C0068">
+    <first_name>Elly</first_name>
+    <last_name>Morocco</last_name>
+    <company_name>Killion Industries</company_name>
+    <address>7 W 32nd St</address>
+    <city>Erie</city>
+    <county>Erie</county>
+    <state>PA</state>
+    <zip>16502</zip>
+    <phone1>814-393-5571</phone1>
+    <phone>814-420-3553</phone>
+    <email>elly_morocco@gmail.com</email>
+  </contact>
+  <contact id="C0069">
+    <first_name>Ilene</first_name>
+    <last_name>Eroman</last_name>
+    <company_name>Robinson, William J Esq</company_name>
+    <address>2853 S Central Expy</address>
+    <city>Glen Burnie</city>
+    <county>Anne Arundel</county>
+    <state>MD</state>
+    <zip>21061</zip>
+    <phone1>410-914-9018</phone1>
+    <phone>410-937-4543</phone>
+    <email>ilene.eroman@hotmail.com</email>
+  </contact>
+  <contact id="C0070">
+    <first_name>Vallie</first_name>
+    <last_name>Mondella</last_name>
+    <company_name>Private Properties</company_name>
+    <address>74 W College St</address>
+    <city>Boise</city>
+    <county>Ada</county>
+    <state>ID</state>
+    <zip>83707</zip>
+    <phone1>208-862-5339</phone1>
+    <phone>208-737-8439</phone>
+    <email>vmondella@mondella.com</email>
+  </contact>
+  <contact id="C0071">
+    <first_name>Kallie</first_name>
+    <last_name>Blackwood</last_name>
+    <company_name>contactley Schlimgen Inc</company_name>
+    <address>701 S Harrison Rd</address>
+    <city>San Francisco</city>
+    <county>San Francisco</county>
+    <state>CA</state>
+    <zip>94104</zip>
+    <phone1>415-315-2761</phone1>
+    <phone>415-604-7609</phone>
+    <email>kallie.blackwood@gmail.com</email>
+  </contact>
+  <contact id="C0072">
+    <first_name>Johnetta</first_name>
+    <last_name>Abdallah</last_name>
+    <company_name>Forging Specialties</company_name>
+    <address>1088 Pinehurst St</address>
+    <city>Chapel Hill</city>
+    <county>Orange</county>
+    <state>NC</state>
+    <zip>27514</zip>
+    <phone1>919-225-9345</phone1>
+    <phone>919-715-3791</phone>
+    <email>johnetta_abdallah@aol.com</email>
+  </contact>
+  <contact id="C0073">
+    <first_name>Bobbye</first_name>
+    <last_name>Rhym</last_name>
+    <company_name>Smits, Patricia Garity</company_name>
+    <address>30 W 80th St #1995</address>
+    <city>San Carlos</city>
+    <county>San Mateo</county>
+    <state>CA</state>
+    <zip>94070</zip>
+    <phone1>650-528-5783</phone1>
+    <phone>650-811-9032</phone>
+    <email>brhym@rhym.com</email>
+  </contact>
+  <contact id="C0074">
+    <first_name>Micaela</first_name>
+    <last_name>Rhymes</last_name>
+    <company_name>H Lee Leonard Attorney At Law</company_name>
+    <address>20932 Hedley St</address>
+    <city>Concord</city>
+    <county>Contra Costa</county>
+    <state>CA</state>
+    <zip>94520</zip>
+    <phone1>925-647-3298</phone1>
+    <phone>925-522-7798</phone>
+    <email>micaela_rhymes@gmail.com</email>
+  </contact>
+  <contact id="C0075">
+    <first_name>Tamar</first_name>
+    <last_name>Hoogland</last_name>
+    <company_name>A K Construction Co</company_name>
+    <address>2737 Pistorio Rd #9230</address>
+    <city>London</city>
+    <county>Madison</county>
+    <state>OH</state>
+    <zip>43140</zip>
+    <phone1>740-343-8575</phone1>
+    <phone>740-526-5410</phone>
+    <email>tamar@hotmail.com</email>
+  </contact>
+  <contact id="C0076">
+    <first_name>Moon</first_name>
+    <last_name>Parlato</last_name>
+    <company_name>Ambelang, Jessica M Md</company_name>
+    <address>74989 Brandon St</address>
+    <city>Wellsville</city>
+    <county>Allegany</county>
+    <state>NY</state>
+    <zip>14895</zip>
+    <phone1>585-866-8313</phone1>
+    <phone>585-498-4278</phone>
+    <email>moon@yahoo.com</email>
+  </contact>
+  <contact id="C0077">
+    <first_name>Laurel</first_name>
+    <last_name>Reitler</last_name>
+    <company_name>Q A Service</company_name>
+    <address>6 Kains Ave</address>
+    <city>Baltimore</city>
+    <county>Baltimore City</county>
+    <state>MD</state>
+    <zip>21215</zip>
+    <phone1>410-520-4832</phone1>
+    <phone>410-957-6903</phone>
+    <email>laurel_reitler@reitler.com</email>
+  </contact>
+  <contact id="C0078">
+    <first_name>Delisa</first_name>
+    <last_name>Crupi</last_name>
+    <company_name>Wood &amp; Whitacre Contractors</company_name>
+    <address>47565 W Grand Ave</address>
+    <city>Newark</city>
+    <county>Essex</county>
+    <state>NJ</state>
+    <zip>7105</zip>
+    <phone1>973-354-2040</phone1>
+    <phone>973-847-9611</phone>
+    <email>delisa.crupi@crupi.com</email>
+  </contact>
+  <contact id="C0079">
+    <first_name>Viva</first_name>
+    <last_name>Toelkes</last_name>
+    <company_name>Mark Iv Press Ltd</company_name>
+    <address>4284 Dorigo Ln</address>
+    <city>Chicago</city>
+    <county>Cook</county>
+    <state>IL</state>
+    <zip>60647</zip>
+    <phone1>773-446-5569</phone1>
+    <phone>773-352-3437</phone>
+    <email>viva.toelkes@gmail.com</email>
+  </contact>
+  <contact id="C0080">
+    <first_name>Elza</first_name>
+    <last_name>Lipke</last_name>
+    <company_name>Museum Of Science &amp; Industry</company_name>
+    <address>6794 Lake Dr E</address>
+    <city>Newark</city>
+    <county>Essex</county>
+    <state>NJ</state>
+    <zip>7104</zip>
+    <phone1>973-927-3447</phone1>
+    <phone>973-796-3667</phone>
+    <email>elza@yahoo.com</email>
+  </contact>
+  <contact id="C0081">
+    <first_name>Devorah</first_name>
+    <last_name>Chickering</last_name>
+    <company_name>Garrison Ind</company_name>
+    <address>31 Douglas Blvd #950</address>
+    <city>Clovis</city>
+    <county>Curry</county>
+    <state>NM</state>
+    <zip>88101</zip>
+    <phone1>505-975-8559</phone1>
+    <phone>505-950-1763</phone>
+    <email>devorah@hotmail.com</email>
+  </contact>
+  <contact id="C0082">
+    <first_name>Timothy</first_name>
+    <last_name>Mulqueen</last_name>
+    <company_name>Saronix Nymph Products</company_name>
+    <address>44 W 4th St</address>
+    <city>Staten Island</city>
+    <county>Richmond</county>
+    <state>NY</state>
+    <zip>10309</zip>
+    <phone1>718-332-6527</phone1>
+    <phone>718-654-7063</phone>
+    <email>timothy_mulqueen@mulqueen.org</email>
+  </contact>
+  <contact id="C0083">
+    <first_name>Arlette</first_name>
+    <last_name>Honeywell</last_name>
+    <company_name>Smc Inc</company_name>
+    <address>11279 Loytan St</address>
+    <city>Jacksonville</city>
+    <county>Duval</county>
+    <state>FL</state>
+    <zip>32254</zip>
+    <phone1>904-775-4480</phone1>
+    <phone>904-514-9918</phone>
+    <email>ahoneywell@honeywell.com</email>
+  </contact>
+  <contact id="C0084">
+    <first_name>Dominque</first_name>
+    <last_name>Dickerson</last_name>
+    <company_name>E A I Electronic Assocs Inc</company_name>
+    <address>69 Marquette Ave</address>
+    <city>Hayward</city>
+    <county>Alameda</county>
+    <state>CA</state>
+    <zip>94545</zip>
+    <phone1>510-993-3758</phone1>
+    <phone>510-901-7640</phone>
+    <email>dominque.dickerson@dickerson.org</email>
+  </contact>
+  <contact id="C0085">
+    <first_name>Lettie</first_name>
+    <last_name>Isenhower</last_name>
+    <company_name>Conte, Christopher A Esq</company_name>
+    <address>70 W Main St</address>
+    <city>Beachwood</city>
+    <county>Cuyahoga</county>
+    <state>OH</state>
+    <zip>44122</zip>
+    <phone1>216-657-7668</phone1>
+    <phone>216-733-8494</phone>
+    <email>lettie_isenhower@yahoo.com</email>
+  </contact>
+  <contact id="C0086">
+    <first_name>Myra</first_name>
+    <last_name>Munns</last_name>
+    <company_name>Anker Law Office</company_name>
+    <address>461 Prospect Pl #316</address>
+    <city>Euless</city>
+    <county>Tarrant</county>
+    <state>TX</state>
+    <zip>76040</zip>
+    <phone1>817-914-7518</phone1>
+    <phone>817-451-3518</phone>
+    <email>mmunns@cox.net</email>
+  </contact>
+  <contact id="C0087">
+    <first_name>Stephaine</first_name>
+    <last_name>Barfield</last_name>
+    <company_name>Beutelschies &amp; Company</company_name>
+    <address>47154 Whipple Ave Nw</address>
+    <city>Gardena</city>
+    <county>Los Angeles</county>
+    <state>CA</state>
+    <zip>90247</zip>
+    <phone1>310-774-7643</phone1>
+    <phone>310-968-1219</phone>
+    <email>stephaine@barfield.com</email>
+  </contact>
+  <contact id="C0088">
+    <first_name>Lai</first_name>
+    <last_name>Gato</last_name>
+    <company_name>Fligg, Kenneth I Jr</company_name>
+    <address>37 Alabama Ave</address>
+    <city>Evanston</city>
+    <county>Cook</county>
+    <state>IL</state>
+    <zip>60201</zip>
+    <phone1>847-728-7286</phone1>
+    <phone>847-957-4614</phone>
+    <email>lai.gato@gato.org</email>
+  </contact>
+  <contact id="C0089">
+    <first_name>Stephen</first_name>
+    <last_name>Emigh</last_name>
+    <company_name>Sharp, J Daniel Esq</company_name>
+    <address>3777 E Richmond St #900</address>
+    <city>Akron</city>
+    <county>Summit</county>
+    <state>OH</state>
+    <zip>44302</zip>
+    <phone1>330-537-5358</phone1>
+    <phone>330-700-2312</phone>
+    <email>stephen_emigh@hotmail.com</email>
+  </contact>
+  <contact id="C0090">
+    <first_name>Tyra</first_name>
+    <last_name>Shields</last_name>
+    <company_name>Assink, Anne H Esq</company_name>
+    <address>3 Fort Worth Ave</address>
+    <city>Philadelphia</city>
+    <county>Philadelphia</county>
+    <state>PA</state>
+    <zip>19106</zip>
+    <phone1>215-255-1641</phone1>
+    <phone>215-228-8264</phone>
+    <email>tshields@gmail.com</email>
+  </contact>
+  <contact id="C0091">
+    <first_name>Tammara</first_name>
+    <last_name>Wardrip</last_name>
+    <company_name>Jewel My Shop Inc</company_name>
+    <address>4800 Black Horse Pike</address>
+    <city>Burlingame</city>
+    <county>San Mateo</county>
+    <state>CA</state>
+    <zip>94010</zip>
+    <phone1>650-803-1936</phone1>
+    <phone>650-216-5075</phone>
+    <email>twardrip@cox.net</email>
+  </contact>
+  <contact id="C0092">
+    <first_name>Cory</first_name>
+    <last_name>Gibes</last_name>
+    <company_name>Chinese Translation Resources</company_name>
+    <address>83649 W Belmont Ave</address>
+    <city>San Gabriel</city>
+    <county>Los Angeles</county>
+    <state>CA</state>
+    <zip>91776</zip>
+    <phone1>626-572-1096</phone1>
+    <phone>626-696-2777</phone>
+    <email>cory.gibes@gmail.com</email>
+  </contact>
+  <contact id="C0093">
+    <first_name>Danica</first_name>
+    <last_name>Bruschke</last_name>
+    <company_name>Stevens, Charles T</company_name>
+    <address>840 15th Ave</address>
+    <city>Waco</city>
+    <county>McLennan</county>
+    <state>TX</state>
+    <zip>76708</zip>
+    <phone1>254-782-8569</phone1>
+    <phone>254-205-1422</phone>
+    <email>danica_bruschke@gmail.com</email>
+  </contact>
+  <contact id="C0094">
+    <first_name>Wilda</first_name>
+    <last_name>Giguere</last_name>
+    <company_name>Mclaughlin, Luther W Cpa</company_name>
+    <address>1747 Calle Amanecer #2</address>
+    <city>Anchorage</city>
+    <county>Anchorage</county>
+    <state>AK</state>
+    <zip>99501</zip>
+    <phone1>907-870-5536</phone1>
+    <phone>907-914-9482</phone>
+    <email>wilda@cox.net</email>
+  </contact>
+  <contact id="C0095">
+    <first_name>Elvera</first_name>
+    <last_name>Benimadho</last_name>
+    <company_name>Tree Musketeers</company_name>
+    <address>99385 Charity St #840</address>
+    <city>San Jose</city>
+    <county>Santa Clara</county>
+    <state>CA</state>
+    <zip>95110</zip>
+    <phone1>408-703-8505</phone1>
+    <phone>408-440-8447</phone>
+    <email>elvera.benimadho@cox.net</email>
+  </contact>
+  <contact id="C0096">
+    <first_name>Carma</first_name>
+    <last_name>Vanheusen</last_name>
+    <company_name>Springfield Div Oh Edison Co</company_name>
+    <address>68556 Central Hwy</address>
+    <city>San Leandro</city>
+    <county>Alameda</county>
+    <state>CA</state>
+    <zip>94577</zip>
+    <phone1>510-503-7169</phone1>
+    <phone>510-452-4835</phone>
+    <email>carma@cox.net</email>
+  </contact>
+  <contact id="C0097">
+    <first_name>Malinda</first_name>
+    <last_name>Hochard</last_name>
+    <company_name>Logan Memorial Hospital</company_name>
+    <address>55 Riverside Ave</address>
+    <city>Indianapolis</city>
+    <county>Marion</county>
+    <state>IN</state>
+    <zip>46202</zip>
+    <phone1>317-722-5066</phone1>
+    <phone>317-472-2412</phone>
+    <email>malinda.hochard@yahoo.com</email>
+  </contact>
+  <contact id="C0098">
+    <first_name>Natalie</first_name>
+    <last_name>Fern</last_name>
+    <company_name>Kelly, Charles G Esq</company_name>
+    <address>7140 University Ave</address>
+    <city>Rock Springs</city>
+    <county>Sweetwater</county>
+    <state>WY</state>
+    <zip>82901</zip>
+    <phone1>307-704-8713</phone1>
+    <phone>307-279-3793</phone>
+    <email>natalie.fern@hotmail.com</email>
+  </contact>
+  <contact id="C0099">
+    <first_name>Lisha</first_name>
+    <last_name>Centini</last_name>
+    <company_name>Industrial Paper Shredders Inc</company_name>
+    <address>64 5th Ave #1153</address>
+    <city>Mc Lean</city>
+    <county>Fairfax</county>
+    <state>VA</state>
+    <zip>22102</zip>
+    <phone1>703-235-3937</phone1>
+    <phone>703-475-7568</phone>
+    <email>lisha@centini.org</email>
+  </contact>
+</root>

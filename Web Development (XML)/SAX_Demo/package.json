@@ -1,0 +1,8 @@
+{
+    "name": "SAX_Demo",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "19longdt",
+    "contributors": [],
+    "dependencies": {}
+}

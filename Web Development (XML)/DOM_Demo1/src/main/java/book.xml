@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+<Books>	
+	<Book id="0001" Category="novel">
+		<Name>Harry Potter and the philosopher stone</Name>
+		<Author>J.K Rowling</Author>
+		<ISBN>978-3-16-148410-0</ISBN>
+		<Price>18.5</Price>
+		<Sold>21</Sold>
+		<Stock>17</Stock>
+	</Book>
+	
+	<Book id="0002" Category="Programming">
+		<Name>XML in a Nutshell, Third Edition </Name>
+		<Author>W. Scott Means</Author>
+		<ISBN>978-0-59-600764-5</ISBN>
+		<Price>31.8</Price>
+		<Sold>84</Sold>
+		<Stock>147</Stock>
+	</Book>
+	
+	<Book id="0003" Category="Science">
+		<Name>A Brief History of Time</Name>
+		<Author>Stephen Hawking</Author>
+		<ISBN>978-0-55-338016-3</ISBN>
+		<Price>16.25</Price>
+		<Sold>126</Sold>
+		<Stock>49</Stock>
+	</Book>
+	
+	<Book id="0004" Category="Programming">
+		<Name>Java core</Name>
+		<Author>Stephen Hawking</Author>
+		<ISBN>978-0-55-338016-3</ISBN>
+		<Price>16.25</Price>
+		<Sold>126</Sold>
+		<Stock>49</Stock>
+	</Book>
+</Books>
