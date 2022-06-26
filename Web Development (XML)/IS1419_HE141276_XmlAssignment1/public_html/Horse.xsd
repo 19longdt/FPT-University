@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+    <!--    <xs:simpleType name="valid_date">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="^[1-9]{1}\d{3}-[0-1]{1}\d{1}-[0-3]{1}\d{1}$"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>-->
+    <xs:simpleType name="valid_gender">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="([F]?[M]?){1}"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:element name="Race">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name ="Course" maxOccurs="1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="CourseName" type="xs:string"></xs:element>
+                            <xs:element name="Address" type="xs:string"></xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Horses">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name ="Horse" minOccurs="1" maxOccurs="3">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Value" type="xs:positiveInteger"></xs:element>
+                                        <xs:element name="DateOfBirth" type="xs:date"></xs:element>
+                                        <xs:element name="Gender" type="valid_gender"></xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="Name" type="xs:string"></xs:attribute>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                    
+                </xs:element>
+                
+            </xs:sequence>
+            
+            <xs:attribute name="date" type="xs:date" use="required"></xs:attribute>
+            <xs:attribute name="name" type="xs:string" use="required"></xs:attribute>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<Race
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='public_html/Horse.xsd'>
+    <Course>
+        <CourseName></CourseName>
+        <Address></Address>
+    </Course>
+    <Horse Name="">
+        <Value></Value>
+        <DateOfBirth></DateOfBirth>
+        <Gender></Gender>
+    </Horse>
+
+</Race>
+

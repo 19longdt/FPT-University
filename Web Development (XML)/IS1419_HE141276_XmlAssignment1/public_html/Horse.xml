@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+<?xml-stylesheet type="text/css" href="Horse.css"?>
+<?xml-stylesheet type="text/xml" href="Horse.xsl"?>
+
+<Race date="2010-12-31" name ="New Years Meet"
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='Horse.xsd'>
+    <Course>
+        <CourseName>The new track</CourseName>
+        <Address>Track Road 123</Address>
+    </Course>
+    <Horses>
+        <Horse Name="Bonfire">
+            <Value>5000</Value>
+            <DateOfBirth>1988-01-02</DateOfBirth>
+            <Gender>M</Gender>
+        </Horse>
+        <Horse Name="Faithfull Dobbin">
+            <Value>3500</Value>
+            <DateOfBirth>1986-05-31</DateOfBirth>
+            <Gender>F</Gender>
+        </Horse>
+        <Horse Name="Prgasus">
+            <Value>3000</Value>
+            <DateOfBirth>1992-06-23</DateOfBirth>
+            <Gender>M</Gender>
+        </Horse>
+    </Horses>
+</Race>
+
