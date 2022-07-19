@@ -35,4 +35,18 @@
 		<Price>200000.0</Price>
 		<Type>neww Typeee</Type>
 	</Car>
+	<Car CarID="6">
+		<CarInfo Name="aksdnka" Make="�dasd">
+			<Model>�dasd</Model>
+		</CarInfo>
+		<Price>123.0</Price>
+		<Type>aaa</Type>
+	</Car>
+	<Car CarID="7">
+		<CarInfo Name="neww" Make="neww">
+			<Model>nwww</Model>
+		</CarInfo>
+		<Price>123.0</Price>
+		<Type>aaa</Type>
+	</Car>
 </Cars>

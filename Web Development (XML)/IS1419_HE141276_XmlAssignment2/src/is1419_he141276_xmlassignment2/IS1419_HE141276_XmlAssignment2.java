@@ -31,7 +31,7 @@ public class IS1419_HE141276_XmlAssignment2 {
             System.out.print("Please choice one option: ");
 
             int choice = (int) (checkNumberLimit(1, 4));
-            switch (choice) {
+            switch (choice) {   
                 case 1:
                     System.out.println(listC);
                     break;
