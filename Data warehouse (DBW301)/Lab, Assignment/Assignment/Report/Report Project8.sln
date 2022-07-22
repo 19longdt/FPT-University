@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report Project8", "Report Project8\Report Project8.rptproj", "{F0F93BD0-7542-4FFC-A220-16433A37A47F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0F93BD0-7542-4FFC-A220-16433A37A47F}.Debug|Default.ActiveCfg = Debug
+		{F0F93BD0-7542-4FFC-A220-16433A37A47F}.Debug|Default.Build.0 = Debug
+		{F0F93BD0-7542-4FFC-A220-16433A37A47F}.Debug|Default.Deploy.0 = Debug
+		{F0F93BD0-7542-4FFC-A220-16433A37A47F}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{F0F93BD0-7542-4FFC-A220-16433A37A47F}.DebugLocal|Default.Build.0 = DebugLocal
+		{F0F93BD0-7542-4FFC-A220-16433A37A47F}.Release|Default.ActiveCfg = Release
+		{F0F93BD0-7542-4FFC-A220-16433A37A47F}.Release|Default.Build.0 = Release
+		{F0F93BD0-7542-4FFC-A220-16433A37A47F}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F567E72B-BF10-43E9-AA66-05CBC7B65237}
+	EndGlobalSection
+EndGlobal
