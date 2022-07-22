@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cars>
+	<Car CarID="1">
+		<CarInfo Name="Corrolla" Name="Toyota">
+			<Model>2015</Model>
+		</CarInfo>
+		<Price>20000.0</Price>
+		<Type>Sedan</Type>
+	</Car>
+</Cars>

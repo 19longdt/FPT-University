@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<Cars>
+	<Car CarID="1">
+		<CarInfo Name="Corrolla" Make="Toyota">
+			<Model>2015</Model>
+		</CarInfo>
+		<Price>20000.0</Price>
+		<Type>Sedan</Type>
+	</Car>
+	<Car CarID="2">
+		<CarInfo Name="Civic" Make="Honda">
+			<Model>2018</Model>
+		</CarInfo>
+		<Price>25000.0</Price>
+		<Type>Sedan</Type>
+	</Car>
+	<Car CarID="3">
+		<CarInfo Name="Passo" Make="Toyota">
+			<Model>2012</Model>
+		</CarInfo>
+		<Price>18000.0</Price>
+		<Type>Hatchback</Type>
+	</Car>
+	<Car CarID="4">
+		<CarInfo Name="Land Cruiser" Make="Toyota">
+			<Model>2017</Model>
+		</CarInfo>
+		<Price>40000.0</Price>
+		<Type>SUV</Type>
+	</Car>
+	<Car CarID="5">
+		<CarInfo Name="newww Name" Make="newww Make">
+			<Model>newwww Model</Model>
+		</CarInfo>
+		<Price>200000.0</Price>
+		<Type>neww Typeee</Type>
+	</Car>
+	<Car CarID="6">
+		<CarInfo Name="aksdnka" Make="�dasd">
+			<Model>�dasd</Model>
+		</CarInfo>
+		<Price>123.0</Price>
+		<Type>aaa</Type>
+	</Car>
+</Cars>
